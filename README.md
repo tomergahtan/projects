@@ -3,3 +3,5 @@ this repository includes an implementation of rabin miller algorithm that genera
 # the entire program is written in c++.
 
 compile the program :<br> g++ -std=c++17  -o rabin_miller.exe  main.cpp smallprimes.cpp rabin_miller.cpp verybigint.cpp  -lgmp -lgmpxx
+<br>
+been built on ubuntu 20.4 environment. the exe file been uploaded too.
